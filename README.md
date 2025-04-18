@@ -12,9 +12,7 @@ I'm a **computer science student** and **developer in a 3D animation company**. 
 
 ### 🚀 Projects & Interests
 - **Flask API for rendering automation**
-- **Interactive timeline for my portfolio**
-- **Dynamic form generation in web applications**
-- **Scheduling & job management in Flask applications**
+
 
 💡 I'm always looking to learn and build innovative projects! Feel free to check out my repositories and connect with me.
 
@@ -34,9 +32,7 @@ Je suis un **étudiant en informatique** et **développeur dans une entreprise d
 
 ### 🚀 Projets & Intérêts
 - **API Flask pour l'automatisation de rendus**
-- **Timeline interactive pour mon portfolio**
-- **Génération dynamique de formulaires dans les applications web**
-- **Gestion des tâches planifiées dans les applications Flask**
+
 
 💡 J’aime apprendre et créer des projets innovants ! N’hésite pas à explorer mes dépôts et à me contacter.
 
