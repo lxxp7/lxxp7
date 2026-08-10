@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**lxxp7/lxxp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student.
+## Skills
 
-Here are some ideas to get you started:
+- **Backend**: Python, Flask, PHP, Java (REST APIs, automation services, CLI tools)  
+- **Frontend**: JavaScript / TypeScript, Vue 3, PrimeVue, HTML, CSS, Twig/Jinja2  
+- **Databases**: SQL, PL/SQL, notions of MongoDB/Cassandra  
+- **DevOps & tooling**: Docker, Git, GitLab  
+- **3D & pipelines**: Unreal Engine, AWS Deadline, Helix P4V (Python APIs) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Experience
+
+### Apprentice R&D Developer – 3D Animation Studio
+
+- NightCrawler - An API/Frontend used to automate creation of nightly renders in Deadline using Unreal Engine 5.6 API (asset dependency lookup, automated exports and renders, sequence handling)
+- dw_deadline_tray - A custom personal Deadline Monitor to make render follow-up easier for artists. 
+
+
