@@ -1,6 +1,5 @@
 # About Me
-
-Computer science student.
+Junior full-stack developer.
 ## Skills
 
 - **Backend**: Python, Flask, PHP, Java (REST APIs, automation services, CLI tools)  
